@@ -21,7 +21,7 @@
 -pool ssl://eu.ezil.me:3443 
 -proto 2 
 -wal 0x8135801F06367Cb8be79b5848c3Db4baE53f3679 
--worker gi412
+-worker 2c
 -coin etc
 
 # Uncomment this to force the miner to read the dual-mining pools from the dpools.txt file
